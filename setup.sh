@@ -1,9 +1,12 @@
 echo "-STARTING SETUP PLEASE WAIT-"
-echo "HH   HH                                   dd  SSSSS         tt "                                 
-echo "HH   HH   aa aa zzzzz   aa aa rr rr       dd SS        eee  tt    uu   uu pp pp    oooo  rr rr  "
-echo "HHHHHHH  aa aaa   zz   aa aaa rrr  r  dddddd  SSSSS  ee   e tttt  uu   uu ppp  pp oo  oo rrr  r "
-echo "HH   HH aa  aaa  zz   aa  aaa rr     dd   dd      SS eeeee  tt    uu   uu pppppp  oo  oo rr     "
-echo "HH   HH  aaa aa zzzzz  aaa aa rr      dddddd  SSSSS   eeeee  tttt  uuuu u pp       oooo  rr     "
+echo "______          _____ " 
+echo "| ___ \        |_   _|"
+echo "| |_/ /_  ____  _| |  "
+echo "| ___ \ \/ /\ \/ / |  "
+echo "| |_/ />  <  >  <| |  "
+echo "\____//_/\_\/_/\_\_/  "
+                      
+                      
 
 sudo apt update -y
 sudo apt install neofetch -y 
